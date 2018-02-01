@@ -1,0 +1,547 @@
+@media screen and (max-width: 600px){
+.background{
+    height:7vw;
+    padding-bottom:2vw;
+}
+.logo{
+    padding-left:5vw;
+    padding-top:3vw;
+}
+.details{
+    padding-top:2vw; 
+    
+}
+.list{
+    padding-right: 3vw;
+}
+.list1{
+    padding-right: 3vw;
+}
+.listlogin{
+    border-width:2px;
+    padding: 0.5vw 0.5vw;
+}
+
+h1 {
+    font-size: 10vw;
+    padding-top: 10%;
+}
+h6 {
+    font-size: 3vw;
+    padding-bottom:20%;
+    }
+.search{
+    background-color: rgb(191, 217, 242);
+    padding:2vw 2vw;
+}
+input[type="text"]{
+    font-size:3vw;  
+}
+
+.images{
+    padding: 5vw 2vw;
+    text-align: center;
+    position:relative;
+}
+.images div{
+    border-width:0.5vw;
+    border-style: solid;
+    border-color: rgb(176, 204, 231);
+    margin-bottom:5vw;
+}
+
+.images div a{
+    text-decoration: none;
+    color: black;
+}
+.images div a p{
+    font-family: "Lato-regular";
+    font-size:2.5vw;
+}
+.images div a span{
+    font-family: "Lato-regular";
+    font-size:2vw;
+}
+.price{
+    position: absolute;
+    top:5%;
+    left:5%;
+    border-style: solid;
+    background-color:white;
+    padding:1vw 1vw;
+}
+input[type="button"]{
+    padding: 1vw 1vw;
+    font-size: 3vw;
+    border-width:0.5vw;
+}
+.info{
+    margin-top: 5vw;
+    padding-top:5vw;
+    
+}
+.info div ul li a{
+    line-height: 5vw;  
+    padding-left: 2vw;
+    font-size: 3vw; 
+}
+.information{
+    padding-left: 15vw;
+}
+.hometypes{
+    padding-left: 10vw;
+}
+.town{
+    padding-left: 10vw;
+}
+.SocialMedia{
+    display:block;
+    text-align:center;
+    float:none;
+    width: 70vw;
+    padding-top:5vw;
+    margin:0 auto;
+    line-height: 5vw;
+    font-size: 3vw; 
+
+}
+.social{
+    padding-top: 5vw;;
+}
+.copyright{
+    font-size: 3vw;
+    padding-top: 10vw;
+    padding-bottom: 10vw;
+}
+}
+@media screen and (min-width: 600px){
+.background{
+    height:7vw;
+    padding-bottom:2vw;
+}
+.logo{
+    padding-left:5vw;
+    padding-top:3vw;
+}
+.details{
+    padding-top:2vw; 
+    
+}
+.list{
+    padding-right: 3vw;
+}
+.list1{
+    padding-right: 3vw;
+}
+.listlogin{
+    border-width:2px;
+   padding: 0.5vw 0.5vw;
+}
+
+h1 {
+    font-size: 10vw;
+    padding-top: 10%;
+}
+h6 {
+    font-size: 3vw;
+    padding-bottom:20%;
+    }
+.search{
+    background-color: rgb(191, 217, 242);
+    padding:2vw 2vw;
+}
+input[type="text"]{
+    font-size:3vw;  
+}
+
+.images{
+    padding: 5vw 2vw;
+    text-align: center;
+    position:relative;
+}
+.images div{
+    border-width:0.5vw;
+    border-style: solid;
+    border-color: rgb(176, 204, 231);
+    margin-bottom:5vw;
+}
+
+.images div a{
+    text-decoration: none;
+    color: black;
+}
+.images div a p{
+    font-family: "Lato-regular";
+    font-size:2.5vw;
+}
+.images div a span{
+    font-family: "Lato-regular";
+    font-size:2vw;
+}
+.price{
+    position: absolute;
+    top:5%;
+    left:5%;
+    border-style: solid;
+    background-color:white;
+    padding:1vw 1vw;
+}
+input[type="button"]{
+    padding: 1vw 1vw;
+    font-size: 3vw;
+    border-width:0.5vw;
+}
+.info{
+    margin-top: 5vw;
+    padding-top:5vw;
+    
+}
+.info div ul li a{
+    line-height: 5vw;  
+    padding-left: 2vw;
+    font-size: 3vw; 
+}
+.information{
+    padding-left: 15vw;
+}
+.hometypes{
+    padding-left: 10vw;
+}
+.town{
+    padding-left: 10vw;
+}
+.SocialMedia{
+    display:block;
+    text-align:center;
+    float:none;
+    width: 70vw;
+    padding-top:5vw;
+    margin:0 auto;
+    line-height: 5vw;
+    font-size: 3vw; 
+
+}
+.social{
+    padding-top: 5vw;;
+}
+.copyright{
+    font-size: 3vw;
+    padding-top: 10vw;
+    padding-bottom: 10vw;
+}
+}
+
+
+@media screen and (min-width: 900px){
+.background{
+    height:5vw;
+    padding-bottom:2vw;
+}
+.logo{
+    padding-left:5vw;
+    padding-top:3vw;
+}
+.details{
+    padding-top:2vw; 
+    
+}
+.list{
+    padding-right: 3vw;
+}
+.list1{
+    padding-right: 3vw;
+}
+.listlogin{
+    border-width:2px;
+   padding: 0.5vw 0.5vw;
+}
+
+h1 {
+    font-size: 8vw;
+    padding-top: 10%;
+}
+h6 {
+    font-size: 2vw;
+    padding-bottom:20%;
+ }
+input[type="text"]{
+    font-size:2vw;  
+}
+.images div a{
+    text-decoration: none;
+    color: black;
+}
+.images div a p{
+    font-family: "Lato-regular";
+    font-size:2.5vw;
+}
+.images div a span{
+    font-family: "Lato-regular";
+    font-size:2vw;
+}
+.price{
+    position: absolute;
+    top:5%;
+    left:5%;
+    border-style: solid;
+    background-color:white;
+    padding:1vw 1vw;
+}
+input[type="button"]{
+    padding: 1vw 1vw;
+    font-size: 2.5vw;
+    border-width:0.5vw;
+}
+.info{
+    margin-top: 5vw;
+    padding-top:5vw;
+    
+}
+.info div ul li a{
+    line-height: 5vw;  
+    padding-left: 2vw;
+    font-size: 2vw; 
+}
+.information{
+    padding-left: 5vw;
+}
+.hometypes{
+    padding-left: 5vw;
+}
+.town{
+    padding-left: 5vw;
+}
+.SocialMedia{
+    display:inline-block;
+    text-align:center;
+    float:right;
+    width: 40vw;
+    padding-right:5vw;
+    padding-top: 0vw;
+    margin:0 auto;
+    line-height: 5vw;
+    font-size: 2vw; 
+}
+.social{
+    padding-top: 2vw;;
+}
+.copyright{
+    font-size: 2vw;
+    padding-top: 10vw;
+    padding-bottom: 5vw;
+}
+}
+
+
+@media screen and (min-width: 1200px){
+
+.background{
+    height:4vw;
+    padding-bottom:2vw;
+}
+.logo{
+    padding-left:5vw;
+    padding-top:3vw;
+}
+.details{
+    padding-top:2vw; 
+}
+.list{
+    padding-right: 3vw;
+}
+.list1{
+    padding-right: 3vw;
+}
+.listlogin{
+    border-width:2px;
+   padding: 0.5vw 0.5vw;
+}
+h1 {
+    font-size: 6vw;
+    padding-top: 10%;
+}
+h6 {
+    font-size: 1.5vw;
+    padding-bottom:20%;
+}
+input[type="text"]{
+    font-size:1.3vw;  
+}
+.images div{
+    border-width:0.2vw;
+    border-style: solid;
+    border-color: rgb(176, 204, 231);
+    margin-bottom:5vw;
+    margin-left:2vw;
+}
+.images div a{
+    text-decoration: none;
+    color: black;
+}
+.images div a p{
+    font-family: "Lato-regular";
+    font-size:1.5vw;
+}
+.images div a span{
+    font-family: "Lato-regular";
+    font-size:1vw;
+}
+.price{
+    position: absolute;
+    top:5%;
+    left:5%;
+    border-style: solid;
+    background-color:white;
+    padding:0.5vw 0.5vw;
+}
+input[type="button"]{
+    padding: 1vw 1vw;
+    font-size: 1.5vw;
+    border-width:0.2vw;
+}
+.info{
+    margin-top: 5vw;
+    padding-top:5vw;
+    
+}
+.info div ul li a{
+    line-height: 2.5vw;  
+    padding-left: 2vw;
+    font-size: 1.3vw; 
+}
+.information{
+    padding-left: 5vw;
+}
+.hometypes{
+    padding-left: 5vw;
+}
+.town{
+    padding-left: 5vw;
+}
+.SocialMedia{
+    display:inline-block;
+    text-align:center;
+    float:right;
+    width: 50vw;
+    padding-right:5vw;
+    padding-top: 0vw;
+    margin:0 auto;
+    line-height: 2.5vw;
+    font-size: 1.3vw; 
+
+}
+.social{
+    padding-top: 2vw;;
+}
+.copyright{
+    font-size: 1.3vw;
+    padding-top: 5vw;
+    padding-bottom: 5vw;
+}
+}
+@media screen and (min-width: 1800px){
+.background{
+    height:3vw;
+    padding-bottom:2vw;
+}
+.logo{
+    padding-left:5vw;
+    padding-top:2.5vw;
+}
+.details{
+    padding-top:2vw; 
+}
+.list{
+    padding-right: 2vw;
+}
+.list1{
+    padding-right: 2vw;
+}
+.listlogin{
+    border-width:2px;
+   padding: 0.5vw 0.5vw;
+}
+h1 {
+    font-size: 5vw;
+    padding-top: 10%;
+}
+h6 {
+    font-size: 1vw;
+    padding-bottom:20%;
+}
+input[type="text"]{
+    font-size:1vw;  
+}
+.images div{
+    border-width:0.2vw;
+    border-style: solid;
+    border-color: rgb(176, 204, 231);
+    margin-bottom:5vw;
+    margin-left:2vw;
+}
+.images div a{
+    text-decoration: none;
+    color: black;
+}
+.images div a p{
+    font-family: "Lato-regular";
+    font-size:1.2vw;
+}
+.images div a span{
+    font-family: "Lato-regular";
+    font-size:1vw;
+}
+.price{
+    position: absolute;
+    top:5%;
+    left:5%;
+    border-style: solid;
+    background-color:white;
+    padding:0.5vw 0.5vw;
+}
+input[type="button"]{
+    padding: 1vw 1vw;
+    font-size: 1vw;
+    border-width:0.2vw;
+}
+.info{
+    margin-top: 3vw;
+    padding-top:3vw;
+    
+}
+.info div ul li a{
+    line-height: 2vw;  
+    padding-left: 2vw;
+    font-size: 1vw; 
+}
+.information{
+    padding-left: 5vw;
+}
+.hometypes{
+    padding-left: 5vw;
+}
+.town{
+    padding-left: 5vw;
+}
+.SocialMedia{
+    display:inline-block;
+    text-align:center;
+    float:right;
+    width: 50vw;
+    padding-right:5vw;
+    padding-top: 0vw;
+    margin:0 auto;
+    line-height: 2vw;
+    font-size: 1vw; 
+
+}
+.social{
+    padding-top: 2vw;;
+}
+.copyright{
+    font-size: 1vw;
+    padding-top: 3vw;
+    padding-bottom: 5vw;
+}
+}
+

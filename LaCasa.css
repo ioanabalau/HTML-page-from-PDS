@@ -1,0 +1,197 @@
+@font-face{
+        font-family: Corinthia;
+        src: url(fonts/p22_corinthia.woff);
+        src: url(fonts/p22_corinthia.eot);
+        src: url(fonts/p22_corinthia.svg);
+        src: url(fonts/p22_corinthia.ttf);
+}
+ @font-face{
+        font-family: Lato_regular;
+        src: url(fonts/lato-regular.woff);
+        src: url(fonts/lato-regular.eot);
+        src: url(fonts/lato-regular.svg);
+        src: url(fonts/lato-regular.ttf);
+}
+ @font-face{
+        font-family: Lato_bold;
+        src: url(fonts/lato_bold.woff);
+        src: url(fonts/lato_bold.eot);
+        src: url(fonts/lato_bold.svg);
+        src: url(fonts/lato_bold.ttf);
+}
+* {
+    margin: 0;
+    padding:0;
+    border:0;
+}
+.topnav{
+   background-image: url("img/hero_small.jpg");
+   background-repeat: no-repeat;
+   background-size: 100% 100%; 
+}
+.background{
+    background-color: rgba(68, 98, 132, 0.2);
+}   
+.logo{
+    display: inline-block;   
+}
+.logo ul li{
+    list-style-type: none;
+}   
+.details{
+    display:inline-block;
+    float: right;
+    padding-right: 5vw; 
+}
+.list1{
+    text-decoration: none;
+    list-style-type: none;
+    display: inline-block;
+    color:white;
+    font-family: "Lato_regular";   
+}
+.list{
+    text-decoration: none;
+    list-style-type: none;
+    display: inline-block;
+    color:white;
+    font-family: "Lato_regular";
+}
+.listlogin{
+    display:inline-block;
+     text-decoration: none;
+    list-style-type: none;
+    display: inline-block;
+    color:rgb(191, 217, 242);
+    font-family: "Lato_regular";
+    border-style: solid;
+    border-color: rgb(191, 217, 242);
+    text-align: center;
+}
+h1 {
+    font-family: "Corinthia";
+    color: white;
+    font-style: italic;
+    text-align: center;   
+}
+h6 {
+    font-family: "Lato_regular";
+    color: white;
+    text-align: center;   
+}
+input[type="text"]{
+    background-color: rgb(191, 217, 242);
+    width: 100%;
+    display: inline-block; 
+    font-family: "Lato_regular";
+    background: url("img/advanced_search_active.png");
+    background-position: right center;
+    background-repeat: no-repeat;
+}
+input[type="text"]:hover{
+    background: url("img/advanced_search_hover.png");
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+
+.house1{
+     display: inline-block;
+    border-style: solid;
+    border-color: rgb(176, 204, 231);
+    position:relative;
+    list-style-type: none;
+    text-align:center;    
+}
+.house2{
+     display: inline-block;
+    border-style: solid;
+    border-color: rgb(176, 204, 231);
+    position:relative;
+    list-style-type: none;
+   text-align:center; 
+}
+.house3{
+     display: inline-block;
+    border-style: solid;
+    border-color: rgb(176, 204, 231);
+    position: relative;
+    list-style-type: none;
+   text-align:center; 
+    
+}
+.images ul li a{
+    text-decoration: none;
+    
+}
+.images ul li a p{
+ color: black;
+ font-family: "Lato-regular";
+}
+.images ul li a span{
+ color: black;
+ font-family: "Lato-regular";
+}
+
+input[type="button"]{
+    background-color: white;  
+    display: block;
+    margin:0 auto;
+    border-radius: 20px;
+    font-family: "Lato";
+    color: rgb(176, 204, 231);
+    text-align: center;
+    border-style: solid;
+    border-color: rgb(176, 204, 231);
+}
+.info{
+    background-color: rgb(176, 204, 231); 
+}
+.information{
+    display:inline-block;
+}
+.information ul li{
+     list-style-type: none;
+}
+.information ul li a{
+    text-decoration: none;
+    font-family: Lato-Regular;
+    color:rgb(255, 255, 255);   
+}
+.hometypes{
+    display:inline-block;
+}
+.hometypes ul li{
+     list-style-type: none;
+}
+.hometypes ul li a{
+    text-decoration: none;
+    font-family: Lato-Regular;
+    color:rgb(255, 255, 255);
+}
+.town{
+    display:inline-block;
+}
+.town ul li{
+     list-style-type: none;
+}
+.town ul li a{
+    text-decoration: none;
+    font-family: Lato-Regular;
+    color:rgb(255, 255, 255);
+}
+.SocialMedia{
+     display:inline-block;
+     color:rgb(255, 255, 255);
+     float: right;
+     text-align:center;
+     margin-top: 30px;
+}
+.SocialMedia ul li{
+    list-style-type: none;
+}
+
+.copyright{
+     font-family: Lato-Regular;
+    color:rgb(255, 255, 255);
+    text-align: center;
+}
